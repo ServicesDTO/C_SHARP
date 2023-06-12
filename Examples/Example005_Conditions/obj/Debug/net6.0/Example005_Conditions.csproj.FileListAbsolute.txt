@@ -1,0 +1,15 @@
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/Example005_Conditions.csproj.AssemblyReference.cache
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/Example005_Conditions.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/Example005_Conditions.AssemblyInfoInputs.cache
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/Example005_Conditions.AssemblyInfo.cs
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/Example005_Conditions.csproj.CoreCompileInputs.cache
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/bin/Debug/net6.0/Example005_Conditions
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/bin/Debug/net6.0/Example005_Conditions.deps.json
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/bin/Debug/net6.0/Example005_Conditions.runtimeconfig.json
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/bin/Debug/net6.0/Example005_Conditions.dll
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/bin/Debug/net6.0/Example005_Conditions.pdb
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/Example005_Conditions.dll
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/refint/Example005_Conditions.dll
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/Example005_Conditions.pdb
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/Example005_Conditions.genruntimeconfig.cache
+/home/oleg/geekbrains/C#/C_Sharp/Examples/Example005_Conditions/obj/Debug/net6.0/ref/Example005_Conditions.dll
